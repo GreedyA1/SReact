@@ -147,9 +147,9 @@ function calculateWinner(squares) {
 }
 
 ReactDOM.render(
-  <Layout>
+  <Layout class="menu-style">
     <Header className="header">
-      <div className="logo" />
+      <div className="logo"> <h2>MARGVEL</h2> </div>
       <Menu
         theme="dark"
         mode="horizontal"

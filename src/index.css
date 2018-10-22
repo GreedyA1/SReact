@@ -1,6 +1,5 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
-    margin: 20px;
   }
 
   .logo {
@@ -9,6 +8,14 @@ body {
     background: rgba(255,255,255,.2);  
     margin: 16px 28px 16px 0;
     float: left;
+    color: floralwhite;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;  
+  }
+
+  h2 {
+    color: floralwhite;
   }
   
   ol, ul {
@@ -55,4 +62,3 @@ body {
   .game-info {
     margin-left: 20px;
   }
-  
